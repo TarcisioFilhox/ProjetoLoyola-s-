@@ -1,19 +1,18 @@
-#Loyola's calça e veste
-#DOCUMENTO DE DEFINIÇÃO DO PROJETO
+Loyola's calça e veste
+DOCUMENTO DE DEFINIÇÃO DO PROJETO
 
-
-###1.	Integrantes do grupo
+1.	Integrantes do grupo
 
 •	Kailan Carvalho Gama
 •	Luiz Feliphe Silva Ribeiro
 •	Tarcísio de Pinho Silva Filho
 
 
-###2.	Descrição do sistema
+2.	Descrição do sistema
 
 O sistema gerencia e organiza os produtos que são vendidos, com preços, estoque, tamanhos dos calçados disponíveis etc. Será um aplicativo desktop offline apenas para uso pessoal do cliente sem nenhuma interação online. Uso apenas para controle de estoque e afins. No futuro pretendemos ver mais coisas que poderão ser adicionadas ao projeto.
 
-###3.	Funcionalidades
+3.	Funcionalidades
 
 •	Cadastrar produtos
 •	Editar dados dos produtos
@@ -29,6 +28,6 @@ O sistema gerencia e organiza os produtos que são vendidos, com preços, estoqu
 
 
 
-###4.	Fonte de Contato
+4.	Fonte de Contato
 
 •	Tarcísio de Pinho Silva (Gerente)
