@@ -22,13 +22,15 @@
 * Permissão ao acesso de como é feito o controle do estoque;
 * Como será feiro o programa;
 * Como será feito o controle de estoque no programa;
-* 
+* Como será a interface gráfica;
+* Acesso as vendas feitas e como serão gerenciadas.
 
 ### Ações a serem tomadas
-| Ação                                      | Responsável              |
-| ----------------------------------------- | -----------------------  |
-| Criar cadastro dos Produtos               | @KailanCavalhoGama       |
-| Gerenciar os Lucros                       | @LuizFelipheSilvaRibeiro |
+| Ação                                      | Responsável                |
+| ----------------------------------------- | -------------------------- |
+| Criar cadastro dos Produtos               | @KailanCavalhoGama         |
+| Criar relatório de Vendas                 | @LuizFelipheSilvaRibeiro   |
+| Interface do Programa                     | @TarcísioDePinhoSilvaFilho |
 
 ### Informações Adicionais
 
