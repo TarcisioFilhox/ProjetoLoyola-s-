@@ -20,7 +20,7 @@
 
 ### Tópicos Discutidos
 * Permissão ao acesso de como é feito o controle do estoque;
-* Como será feiro o programa;
+* Como será feito o programa;
 * Como será feito o controle de estoque no programa;
 * Como será a interface gráfica;
 * Acesso as vendas feitas e como serão gerenciadas.
