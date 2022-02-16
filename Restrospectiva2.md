@@ -36,6 +36,8 @@
 | Consulta de Produto                    | Luiz Feliphe Silva Ribeiro          |
 
 ### O que não foi feito
+| Atividade                                                                                                             | Atribuição                              |
+| --------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
 | Exibir produtos Disponíveis 	         | Luiz Feliphe Silva Ribeiro              |
 | Organizar todos os códigos             | Tarcísio de Pinho Silva Filho          |
 
