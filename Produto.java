@@ -3,7 +3,7 @@ package Projeto;
 public class Produto {
 
     private String codProduto, nome, marca, tamanho;
-
+ 
     public Produto(String codProduto, String nome, String marca, String tamanho){
         this.codProduto = codProduto;
         this.nome = nome;
