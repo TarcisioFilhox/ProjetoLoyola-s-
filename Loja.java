@@ -1,6 +1,6 @@
 package Projeto;
 
-import java.util.Scanner;
+import java.util.Scanner; 
 import java.util.HashMap;
 
 public class Loja {
